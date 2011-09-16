@@ -6,7 +6,8 @@ This is a small set of files and basic directory structure for flash projects.
 ## Resources
 
 Included resources:	
-- [swfObject](http://code.google.com/p/swfobject/)
+
+- [swfObject](http://code.google.com/p/swfobject/)  
 *MIT License*
 - [jQuery](http://jquery.com/)  
 *MIT License, GPL License*
