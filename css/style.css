@@ -1,0 +1,68 @@
+/* ------------------------------------------------------  /css/style.css  -- //
+ *	
+ *	Title:      
+ *	Author:     
+ *	Copyright:  
+ *	
+ * -------------------------------------------------------------------------- */
+
+/* --------------------------------------------------------------  global  -- */
+
+html, body {
+	color: #FFFFFF;
+	background-color: #000000;
+	font-family: Helvetica;
+	height: 100%;
+}
+
+
+/* ------------------------------------------------------  flashcontainer  -- */
+
+#flashcontainer {
+	height: 100%;
+	width: 100%;
+	min-height: 400px;
+	min-width: 600px;
+	max-height: 800px;
+	max-width: 1200px;
+ 	margin: 0 auto;
+	overflow: hidden;
+}
+
+
+/* --------------------------------------------------------  flashcontent  -- */
+
+#flashcontent {
+	height: 100%;
+	width: 100%;
+	min-height: 400px;
+	min-width: 600px;
+	max-height: 800px;
+	max-width: 1200px;
+}
+
+
+/* -------------------------------------------------------------  noflash  -- */
+
+#noflash {
+	display: block;
+	display: none;
+	width: 300px;
+	margin: 100px auto;
+}
+
+#noflash h1 {
+	color:#999999;
+	font-size: 1.6em;
+	line-height: 2.2em;
+}
+
+#noflash h2 {
+	color:#666666;
+	font-size: 1.2em;
+	line-height: 1.4em;
+}
+
+#noflash p {
+	margin-top:1.2em;
+}

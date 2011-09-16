@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<site-config>
+	<locales>
+		<en>
+			<videos>
+				<video url="http://domain.tld/video/video-1.flv" title="Video 1" thumb="http://domain.tld/img/video-1.jpg" />
+				<video url="http://domain.tld/video/video-2.flv" title="Video 2" thumb="http://domain.tld/img/video-2.jpg" />
+				<video url="http://domain.tld/video/video-3.flv" title="Video 3" thumb="http://domain.tld/img/video-3.jpg" />
+			</videos>
+		</en>
+	</locales>
+</site-config>
