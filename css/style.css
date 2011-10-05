@@ -45,8 +45,6 @@ html, body {
 /* -------------------------------------------------------------  noflash  -- */
 
 #noflash {
-	display: block;
-	display: none;
 	width: 300px;
 	margin: 100px auto;
 }
